@@ -1,0 +1,7 @@
+tei-p {
+  color: green
+}
+
+tei-hi::before {
+  content: "***"
+}
